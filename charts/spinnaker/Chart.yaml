@@ -1,0 +1,12 @@
+apiVersion: v1
+description: Open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+name: spinnaker
+version: 2.2.10
+appVersion: 1.45.0
+home: http://spinnaker.io/
+sources:
+- https://github.com/spinnaker
+- https://github.com/zebraxid/zx-spinnaker-helm
+maintainers:
+- name: devopszx
+  email: devopszx@zebrax.id
